@@ -16,8 +16,9 @@ As part of Mastercard’s Cybersecurity Virtual Experience Program on Forage, I 
 - Communication and strategy  
 - Design thinking and problem solving  
 
-## Artifacts  
-- [Screenshots Folder](./screenshots) – Includes visual outputs from the simulation (phishing analysis and awareness training recommendations).  
+## Project 
+- Improve the phising email.png
+- Includes visual outputs from the simulation (phishing analysis and awareness training recommendations).  
 
 ## Learning Outcome  
 This project reinforced the importance of proactive security awareness programs and the role of clear communication in reducing organizational risk.  

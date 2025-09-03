@@ -1,4 +1,4 @@
-# Mastercard Cybersecurity Virtual Experience Program  
+# Mastercard Cybersecurity Virtual Experience Program  - August 2025
 
 ## Project Overview  
 As part of Mastercard’s Cybersecurity Virtual Experience Program on Forage, I served as an analyst on the Security Awareness Team. The focus of this project was on strengthening organizational resilience through security awareness and targeted training initiatives.  

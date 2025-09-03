@@ -17,7 +17,6 @@ As part of Mastercard’s Cybersecurity Virtual Experience Program on Forage, I 
 - Design thinking and problem solving  
 
 ## Project 
-- Improve the phising email.png
 - Includes visual outputs from the simulation (phishing analysis and awareness training recommendations).  
 
 ## Learning Outcome  
